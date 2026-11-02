@@ -50,7 +50,7 @@ Cuando importas archivos (DXF, SVG, PDF, AI, STL, OBJ, STEP, imágenes o fuentes
 - Actualizaciones: cuando el programa se abre, consulta GitHub para saber si hay una versión nueva. La versión nueva solo se descarga e instala cuando haces clic para actualizar.
 - Informes de problemas: solo se envían cuando haces clic en enviar. Pueden llevar lo que escribiste, el contacto que indicaste (opcional), grabaciones de audio e imágenes que añadiste, la versión del programa, el sistema del ordenador, los detalles técnicos de un bloqueo y el archivo del proyecto (solo si marcas esa opción). Estos datos se guardan en un lugar privado del autor en GitHub y se usan solo para encontrar y corregir problemas.
 - Los datos del registro de uso se guardan en una hoja de cálculo privada del autor (Google) y los informes en un lugar privado del autor (GitHub). No se venden ni se comparten con terceros. Para pedir que se borren tus datos, escribe al correo del punto 11.
-- Aparte de eso, el programa no envía ningún otro dato, no tiene publicidad y no vende información. Tus dibujos y proyectos no se envían (salvo en un informe, si marcas la opción).
+- Aparte de eso, el programa no envía ningún otro dato. Tus dibujos y proyectos no se envían (salvo en un informe, si marcas la opción).
 
 ## 8. Archivos guardados en tu ordenador
 
