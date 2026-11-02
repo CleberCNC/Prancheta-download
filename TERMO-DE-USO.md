@@ -1,6 +1,6 @@
 # Termo de Uso — Prancheta CNC
 
-Versão 1 — novembro de 2026
+Versão 2 — novembro de 2026
 
 ## 1. Aceite
 
@@ -46,7 +46,7 @@ Quando você importa arquivos (DXF, SVG, PDF, AI, STL, OBJ, STEP, imagens ou fon
 
 ## 7. Internet e dados enviados
 
-- Registro de uso: quando você aceita este termo, quando o programa abre, enquanto ele está aberto (a cada 15 minutos) e quando ele fecha, o programa envia ao autor: um código desta instalação (criado ao acaso, sem dados pessoais), a versão do programa, a versão do termo aceito, o idioma, o sistema do computador, a localização aproximada (cidade, estado, país e coordenadas aproximadas da cidade, descobertas pelo endereço de internet, sem GPS) e, se você informar no aceite, seu nome ou empresa. Isso serve para guardar o registro do seu aceite e para o autor saber quantas pessoas usam cada versão e onde o programa é usado. Para descobrir a localização, o programa consulta um serviço público de localização por endereço de internet (GeoJS). O endereço de internet (IP) não é guardado pelo autor.
+- Registro de uso: quando você aceita este termo, quando o programa abre, enquanto ele está aberto (a cada 15 minutos) e quando ele fecha, o programa envia ao autor: um código desta instalação (criado ao acaso, sem dados pessoais), a versão do programa, a versão do termo aceito, o idioma, o sistema do computador, a localização aproximada (cidade, estado, país e coordenadas aproximadas da cidade, descobertas pelo endereço de internet, sem GPS) e, se você informar no aceite, seu nome ou empresa. Isso serve para guardar o registro do seu aceite e para o autor saber quantas pessoas usam cada versão e onde o programa é usado. Para descobrir a localização, o programa consulta serviços públicos de localização por endereço de internet (GeoJS; se ele não responder, ipwho.is, FreeIPAPI ou ipapi.co). O endereço de internet (IP) não é guardado pelo autor.
 - Atualizações: quando o programa abre, ele consulta o GitHub para saber se há uma versão nova. A nova versão só é baixada e instalada quando você clica para atualizar.
 - Relato de problemas: só é enviado quando você clica em enviar. Ele pode levar o que você escreveu, o contato que você informou (opcional), gravações de áudio e imagens que você adicionou, a versão do programa, o sistema do computador, os detalhes técnicos de um travamento e o arquivo do projeto (só se você marcar essa opção). Esses dados ficam guardados num local particular do autor no GitHub e são usados só para encontrar e corrigir problemas.
 - Os dados do registro de uso ficam numa planilha particular do autor (Google) e os relatos num local particular do autor (GitHub). Eles não são vendidos nem passados a terceiros. Para pedir que os seus dados sejam apagados, escreva para o e-mail do item 11.
