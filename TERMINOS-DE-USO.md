@@ -1,6 +1,6 @@
 # Términos de Uso — Prancheta CNC
 
-Versión 2 — noviembre de 2026
+Versión 1 — noviembre de 2026
 
 ## 1. Aceptación
 
@@ -46,7 +46,7 @@ Cuando importas archivos (DXF, SVG, PDF, AI, STL, OBJ, STEP, imágenes o fuentes
 
 ## 7. Internet y datos enviados
 
-- Registro de uso: cuando aceptas estos términos, cuando el programa se abre, mientras está abierto (cada 15 minutos) y cuando se cierra, el programa envía al autor: un código de esta instalación (creado al azar, sin datos personales), la versión del programa, la versión de los términos aceptados, el idioma, el sistema del ordenador, la ubicación aproximada (ciudad, estado, país y coordenadas aproximadas de la ciudad, obtenidas por la dirección de internet, sin GPS) y, si lo indicas al aceptar, tu nombre o empresa. Esto sirve para guardar el registro de tu aceptación y para que el autor sepa cuántas personas usan cada versión y dónde se usa el programa. Para obtener la ubicación, el programa consulta servicios públicos de ubicación por dirección de internet (GeoJS; si no responde, ipwho.is, FreeIPAPI o ipapi.co). El autor no guarda la dirección de internet (IP).
+- Registro de uso: cuando aceptas estos términos, cuando el programa se abre, mientras está abierto (cada 15 minutos) y cuando se cierra, el programa envía al autor: un código de esta instalación (creado al azar, sin datos personales), la versión del programa, la versión de los términos aceptados, el idioma, el sistema del ordenador, la ubicación aproximada (ciudad, estado, país y coordenadas aproximadas de la ciudad, obtenidas por la dirección de internet, sin GPS) y, si lo indicas al aceptar, tu nombre o empresa. Esto sirve para guardar el registro de tu aceptación y para que el autor sepa cuántas personas usan cada versión y dónde se usa el programa. Para obtener la ubicación, el programa consulta un servicio público de ubicación por dirección de internet (GeoJS). El autor no guarda la dirección de internet (IP).
 - Actualizaciones: cuando el programa se abre, consulta GitHub para saber si hay una versión nueva. La versión nueva solo se descarga e instala cuando haces clic para actualizar.
 - Informes de problemas: solo se envían cuando haces clic en enviar. Pueden llevar lo que escribiste, el contacto que indicaste (opcional), grabaciones de audio e imágenes que añadiste, la versión del programa, el sistema del ordenador, los detalles técnicos de un bloqueo y el archivo del proyecto (solo si marcas esa opción). Estos datos se guardan en un lugar privado del autor en GitHub y se usan solo para encontrar y corregir problemas.
 - Los datos del registro de uso se guardan en una hoja de cálculo privada del autor (Google) y los informes en un lugar privado del autor (GitHub). No se venden ni se comparten con terceros. Para pedir que se borren tus datos, escribe al correo del punto 11.
