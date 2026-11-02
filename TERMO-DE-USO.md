@@ -50,7 +50,7 @@ Quando você importa arquivos (DXF, SVG, PDF, AI, STL, OBJ, STEP, imagens ou fon
 - Atualizações: quando o programa abre, ele consulta o GitHub para saber se há uma versão nova. A nova versão só é baixada e instalada quando você clica para atualizar.
 - Relato de problemas: só é enviado quando você clica em enviar. Ele pode levar o que você escreveu, o contato que você informou (opcional), gravações de áudio e imagens que você adicionou, a versão do programa, o sistema do computador, os detalhes técnicos de um travamento e o arquivo do projeto (só se você marcar essa opção). Esses dados ficam guardados num local particular do autor no GitHub e são usados só para encontrar e corrigir problemas.
 - Os dados do registro de uso ficam numa planilha particular do autor (Google) e os relatos num local particular do autor (GitHub). Eles não são vendidos nem passados a terceiros. Para pedir que os seus dados sejam apagados, escreva para o e-mail do item 11.
-- Fora isso, o programa não envia nenhum outro dado, não tem propaganda e não vende informações. Os seus desenhos e projetos não são enviados (a não ser num relato, se você marcar a opção).
+- Fora isso, o programa não envia nenhum outro dado. Os seus desenhos e projetos não são enviados (a não ser num relato, se você marcar a opção).
 
 ## 8. Arquivos guardados no seu computador
 
