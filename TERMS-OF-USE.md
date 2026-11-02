@@ -50,7 +50,7 @@ When you import files (DXF, SVG, PDF, AI, STL, OBJ, STEP, images or fonts), it i
 - Updates: when the program opens, it checks GitHub for a new version. The new version is only downloaded and installed when you click to update.
 - Problem reports: only sent when you click send. They may include what you wrote, the contact you entered (optional), audio recordings and images you added, the program version, the operating system, the technical details of a crash and the project file (only if you tick that option). This data is kept in a private place of the author on GitHub and is used only to find and fix problems.
 - Usage record data is kept in a private spreadsheet of the author (Google) and reports in a private place of the author (GitHub). They are not sold or shared with third parties. To ask for your data to be deleted, write to the e-mail in item 11.
-- Apart from that, the program sends no other data, has no ads and sells no information. Your drawings and projects are not sent (except in a report, if you tick the option).
+- Apart from that, the program sends no other data. Your drawings and projects are not sent (except in a report, if you tick the option).
 
 ## 8. Files kept on your computer
 
