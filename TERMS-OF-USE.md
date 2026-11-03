@@ -1,6 +1,6 @@
 # Terms of Use — Prancheta CNC
 
-Version 1 — November 2026
+Version 2 — November 2026
 
 ## 1. Acceptance
 
@@ -46,7 +46,7 @@ When you import files (DXF, SVG, PDF, AI, STL, OBJ, STEP, images or fonts), it i
 
 ## 7. Internet and data sent
 
-- Usage record: when you accept these terms, when the program opens, while it is open (every 15 minutes) and when it closes, the program sends the author: a code for this installation (created at random, with no personal data), the program version, the version of the accepted terms, the language, the computer's operating system, the approximate location (city, state, country and approximate coordinates of the city, found from the internet address, without GPS) and, if you enter it when accepting, your name or company. This keeps the record of your acceptance and lets the author know how many people use each version and where the program is used. To find the location, the program queries a public IP location service (GeoJS). The internet address (IP) is not stored by the author.
+- Usage record: when you accept these terms, when the program opens, while it is open (every 15 minutes) and when it closes, the program sends the author: a code for this installation (created at random, with no personal data), the program version, the version of the accepted terms, the language, the computer's operating system, the approximate location (city, state, country and approximate coordinates of the city, found from the internet address, without GPS) and, if you enter it when accepting, your name or company. This keeps the record of your acceptance and lets the author know how many people use each version and where the program is used. To find the location, the program queries public IP location services (GeoJS; if it does not answer, ipwho.is, FreeIPAPI or ipapi.co). The internet address (IP) is not stored by the author.
 - Updates: when the program opens, it checks GitHub for a new version. The new version is only downloaded and installed when you click to update.
 - Problem reports: only sent when you click send. They may include what you wrote, the contact you entered (optional), audio recordings and images you added, the program version, the operating system, the technical details of a crash and the project file (only if you tick that option). This data is kept in a private place of the author on GitHub and is used only to find and fix problems.
 - Usage record data is kept in a private spreadsheet of the author (Google) and reports in a private place of the author (GitHub). They are not sold or shared with third parties. To ask for your data to be deleted, write to the e-mail in item 11.
